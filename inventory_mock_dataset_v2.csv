@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Supplier,Purchase_Date,Quantity_Purchased,Reorder_Level,In_Stock,Unit_Price,Total_Value
+P001,Product 1,Groceries,Supplier A,2023-07-05,155,40,Yes,34.95,5417.25
+P002,Product 2,Groceries,Supplier B,2023-03-07,22,10,Yes,70.66,1554.52
+P003,Product 3,Groceries,Supplier B,2023-10-25,106,28,Yes,252.72,26788.32
+P004,Product 4,Electronics,Supplier A,2023-07-31,51,30,Yes,238.59,12168.09
+P005,Product 5,Apparel,Supplier B,2023-07-25,169,36,Yes,255.03,43100.07
+P006,Product 6,Apparel,Supplier C,2023-10-03,190,45,Yes,271.53,51590.7
+P007,Product 7,Apparel,Supplier B,2023-06-25,17,34,No,159.59,2713.03
+P008,Product 8,Furniture,Supplier A,2023-04-27,160,48,Yes,91.15,14584.0
+P009,Product 9,Apparel,Supplier B,2023-05-29,38,41,No,14.87,565.06
+P010,Product 10,Furniture,Supplier C,2023-11-06,69,31,Yes,412.63,28471.47
+P011,Product 11,Electronics,Supplier C,2023-04-11,170,41,Yes,398.72,67782.4
+P012,Product 12,Apparel,Supplier B,2023-04-28,175,18,Yes,313.93,54937.75
+P013,Product 13,Office Supplies,Supplier C,2023-12-15,136,24,Yes,315.32,42883.52
+P014,Product 14,Furniture,Supplier C,2023-11-24,122,37,Yes,262.66,32044.52
+P015,Product 15,Office Supplies,Supplier C,2023-04-02,103,49,Yes,184.95,19049.85
+P016,Product 16,Office Supplies,Supplier A,2023-09-07,122,11,Yes,64.6,7881.2
+P017,Product 17,Apparel,Supplier A,2023-01-26,187,36,Yes,316.06,59103.22
+P018,Product 18,Office Supplies,Supplier C,2023-01-19,12,45,No,480.82,5769.84
+P019,Product 19,Apparel,Supplier C,2023-12-13,181,47,Yes,48.75,8823.75
+P020,Product 20,Apparel,Supplier A,2023-07-22,125,33,Yes,38.85,4856.25
+P021,Product 21,Office Supplies,Supplier C,2023-10-13,42,32,Yes,407.52,17115.84
+P022,Product 22,Groceries,Supplier C,2023-09-05,181,13,Yes,89.18,16141.58
+P023,Product 23,Apparel,Supplier A,2023-05-09,117,32,Yes,184.78,21619.26
+P024,Product 24,Office Supplies,Supplier A,2023-09-20,199,46,Yes,241.22,48002.78
+P025,Product 25,Office Supplies,Supplier C,2023-08-18,133,22,Yes,61.86,8227.38
+P026,Product 26,Furniture,Supplier A,2023-05-04,66,49,Yes,113.4,7484.4
+P027,Product 27,Furniture,Supplier C,2023-11-12,192,10,Yes,70.58,13551.36
+P028,Product 28,Apparel,Supplier C,2023-10-06,113,42,Yes,473.3,53482.9
+P029,Product 29,Apparel,Supplier B,2023-05-04,66,35,Yes,165.19,10902.54
+P030,Product 30,Office Supplies,Supplier A,2023-11-25,167,27,Yes,301.52,50353.84
+P031,Product 31,Office Supplies,Supplier A,2023-08-08,57,33,Yes,143.39,8173.23
+P032,Product 32,Office Supplies,Supplier C,2023-08-15,130,36,Yes,257.87,33523.1
+P033,Product 33,Groceries,Supplier A,2023-09-16,29,41,No,475.24,13781.96
+P034,Product 34,Electronics,Supplier A,2023-09-27,110,25,Yes,148.37,16320.7
+P035,Product 35,Office Supplies,Supplier C,2023-11-14,115,21,Yes,498.72,57352.8
+P036,Product 36,Apparel,Supplier A,2023-03-21,110,36,Yes,245.64,27020.4
+P037,Product 37,Office Supplies,Supplier B,2023-09-14,161,23,Yes,278.57,44849.77
+P038,Product 38,Electronics,Supplier A,2023-06-10,158,31,Yes,220.57,34850.06
+P039,Product 39,Electronics,Supplier C,2023-11-29,94,16,Yes,324.88,30538.72
+P040,Product 40,Electronics,Supplier C,2023-05-13,9,23,No,478.91,4310.19
+P041,Product 41,Electronics,Supplier B,2023-04-10,48,34,Yes,370.42,17780.16
+P042,Product 42,Apparel,Supplier C,2023-06-20,134,35,Yes,282.91,37909.94
+P043,Product 43,Electronics,Supplier C,2023-05-11,90,35,Yes,208.6,18774.0
+P044,Product 44,Groceries,Supplier A,2023-07-18,144,29,Yes,319.19,45963.36
+P045,Product 45,Office Supplies,Supplier A,2023-09-17,187,43,Yes,180.69,33789.03
+P046,Product 46,Groceries,Supplier B,2023-06-23,154,37,Yes,138.87,21385.98
+P047,Product 47,Groceries,Supplier C,2023-12-21,54,19,Yes,486.91,26293.14
+P048,Product 48,Groceries,Supplier B,2023-10-31,180,32,Yes,56.18,10112.4
+P049,Product 49,Apparel,Supplier C,2023-06-30,86,17,Yes,275.9,23727.4
+P050,Product 50,Furniture,Supplier A,2023-09-30,126,10,Yes,205.65,25911.9
